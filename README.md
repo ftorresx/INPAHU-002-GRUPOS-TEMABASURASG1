@@ -11,6 +11,6 @@ Este proyecto tendrá como principal objetivo incentivar a niños, adolecentes y
 
 Integrantes
 
-*Karen Duque
-*William Beltran
-*Carlos Ruiz
+* Karen Duque
+* William Beltran
+* Carlos Ruiz
