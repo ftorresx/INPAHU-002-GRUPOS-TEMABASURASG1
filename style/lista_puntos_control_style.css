@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    padding: 0;
+    background: #34C110;
+    font-family: sans-serif;
+}
+
+ul{
+    position: absolute;
+    width: 450px;
+    margin: 100px auto 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+ul li{
+    display: flex;
+    background: #217517;
+    padding: 10px 20px;
+    color: #FFF;
+    margin: 5px 0;
+    transition: .5s;
+}
+
+ul li:nth-child(1){
+    background: #064002;
+}
+
+ul li:nth-child(2){
+    background: #218B0F;
+}
+
+ul li:nth-child(3){
+    background: #35D803;
+}
+
+ul li:nth-child(4){
+    background: #34C110;
+}
