@@ -1,16 +1,28 @@
-body{
-    margin: 0 auto;
-    background-image: url("../images/fondo.jpg");
+*{
+    font-family: Trebuchet MS;
+}
+
+.logo{
+    width: 20%;
+}
+
+.titulo {
+
+    background-image: url("../images/RPLOGO.png") no-repeat;
+    padding: 70px 40px;
+    font-size: 25px;
+    color: blue;
+    text-decoration: none;
+    text-align: center;
 }
 
 .container{
     background-color: #F3F3F3;
     width: 500px;
-    height: 350px;
     text-align: center;
     border-radius: 20px;
     margin: 0 auto;
-    margin-top: 150px;
+    margin-top: 80px;
     opacity: 0.9;
 }
 
@@ -21,7 +33,17 @@ body{
     margin-bottom: 30px;
 }
 
-input[type="text"], input[type="password"] {
+
+
+.def{
+    margin:15px;
+    font-size: 16px;
+    text-decoration: none;
+    color:green;
+    text-align: center;
+}
+
+input[type="text"], input[type="number"] {
     height: 45px;
     width: 400px;
     font-size: 15px;
@@ -46,3 +68,16 @@ input[type="text"], input[type="password"] {
     background-color: green;
 }
 
+.footer{
+
+    background-color: green;
+    width: 95%;
+    padding: 40px 50px;
+    
+}
+
+.footertext{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
